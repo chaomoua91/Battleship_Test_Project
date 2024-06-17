@@ -1,1 +1,3 @@
-# Battleship_Test_Project
+# webpack-template
+Template for webpack projects
+
